@@ -19,3 +19,14 @@
 
 **Link to my site:** [Akcel.io](https://akcel.io)
 **Link to the akcelio repo:** [akcelio GitHub repo](https://github.com/wbankowski/akcelio)
+
+
+### Day 3: August 11, 2018
+
+**Today's Progress:** I added TechLogo.vue component for displaying svg icons of technology stack on the main page. Wondering why my yesterday's deploy on Netlify shows an error 🧐 Localhosted works ok.
+
+**Thoughts:** If my Vuetify module will not work with Netlify I consider making the Cards by myself in HTML/CSS. 
+
+**Link to my site:** [Akcel.io](https://akcel.io)
+**Link to the akcelio repo:** [akcelio GitHub repo](https://github.com/wbankowski/akcelio)
+

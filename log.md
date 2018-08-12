@@ -30,3 +30,12 @@
 **Link to my site:** [Akcel.io](https://akcel.io)
 **Link to the akcelio repo:** [akcelio GitHub repo](https://github.com/wbankowski/akcelio)
 
+
+### Day 4: August 12, 2018
+
+**Today's Progress:** I added a new front matter property "draft" which can have true/false value. If draft is true it means that it will not be visible on the post list. I have started answering some Node.js advanced questions what formed a new category in my blog.
+
+**Thoughts:** I am still designing my BlogList component to fit perfectly into VuePress deafult theme. 
+
+**Link to my site:** [Akcel.io](https://akcel.io)
+**Link to the akcelio repo:** [akcelio GitHub repo](https://github.com/wbankowski/akcelio)

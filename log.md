@@ -39,3 +39,13 @@
 
 **Link to my site:** [Akcel.io](https://akcel.io)
 **Link to the akcelio repo:** [akcelio GitHub repo](https://github.com/wbankowski/akcelio)
+
+
+### Day 5: August 13, 2018
+
+**Today's Progress:** Made some amendments to BlogList component. That's it for now with VuePress. Starting with Node.js project.
+
+**Thoughts:** I am going to make a full CRUD Node.js app to show my understanding of the subject.
+
+**Link to my site:** [Akcel.io](https://akcel.io)
+**Link to the akcelio repo:** [akcelio GitHub repo](https://github.com/wbankowski/akcelio)

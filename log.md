@@ -49,3 +49,13 @@
 
 **Link to my site:** [Akcel.io](https://akcel.io)
 **Link to the akcelio repo:** [akcelio GitHub repo](https://github.com/wbankowski/akcelio)
+
+
+### Day 6: August 16, 2018
+
+**Today's Progress:** I decided to make a classic Hangman game with Vue.js. Waiting for custom graphics from my daughter :) Need some customization of design. Tommorow I am going to finish it.
+
+**Thoughts:** Used children components with $emit to parent. Took also a value of $event. Feel comfortable with regsitering components and using them within main App.vue
+
+**Link to my site:** [Akcel.io](https://akcel.io)
+**Link to the Vue Hangman repo:** [Vue Hangman GitHub repo](https://github.com/wbankowski/vue-hangman)

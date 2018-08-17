@@ -59,3 +59,13 @@
 
 **Link to my site:** [Akcel.io](https://akcel.io)
 **Link to the Vue Hangman repo:** [Vue Hangman GitHub repo](https://github.com/wbankowski/vue-hangman)
+
+
+### Day 7: August 17, 2018
+
+**Today's Progress:** Added getRandomWord method which uses async/await and fetch from [API Wordnik](https://api.wordnik.com/v4/words.json/randomWord). 
+
+**Thoughts:** I have to wait to get api-key from Wordnik to access their API. Still need some work to catch and serve possible errors.
+
+**Link to my site:** [Akcel.io](https://akcel.io)
+**Link to the Vue Hangman repo:** [Vue Hangman GitHub repo](https://github.com/wbankowski/vue-hangman)

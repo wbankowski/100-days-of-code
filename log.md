@@ -69,3 +69,13 @@
 
 **Link to my site:** [Akcel.io](https://akcel.io)
 **Link to the Vue Hangman repo:** [Vue Hangman GitHub repo](https://github.com/wbankowski/vue-hangman)
+
+
+### Day 8: August 20, 2018
+
+**Today's Progress:** Started new idea for reaction training device. I want to use Tessel2 microcomputer. Now I am writing some code to serve Tessel. It will have several modes t play it with.
+
+**Thoughts:** Found real world project where I can use JavaScript and Node.js. Feeling excited to have a chance to use it in real device.
+
+**Link to my site:** [Akcel.io](https://akcel.io)
+**Link to the Reaction Game repo:** [Reaction Game GitHub repo](https://github.com/wbankowski/reaction-game.git)

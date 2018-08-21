@@ -79,3 +79,13 @@
 
 **Link to my site:** [Akcel.io](https://akcel.io)
 **Link to the Reaction Game repo:** [Reaction Game GitHub repo](https://github.com/wbankowski/reaction-game.git)
+
+
+### Day 9: August 21, 2018
+
+**Today's Progress:** I created a prototype of reaction training device in the browser. Logic of the game is done. In a given amount of time you have to collect as many fruits as you can which appear on the screen randomly. There is a counter to calculate your reaction time of each move and at the end you will see your average reaction time. Now it is a time to buy some electronic to make it real :)
+
+**Thoughts:** Still my browser version needs some work on styling. I will make a mobile app view styling. 
+
+**Link to my site:** [Akcel.io](https://akcel.io)
+**Link to the Reaction Game repo:** [Reaction Game GitHub repo](https://github.com/wbankowski/reaction-game.git)
